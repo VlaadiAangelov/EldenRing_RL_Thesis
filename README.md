@@ -1,3 +1,7 @@
+# This is the ReadMe File I got from ocram444's repository EldenRL
+
+https://github.com/ocram444/EldenRL - here is a link. For my Read me file you can use the Thesis(ReadMe).pdf
+
 # EldenRL - Elden Ring Ai
 Reinforcement Learning for Elden Ring on Windows11.  
   
